@@ -10,13 +10,13 @@ The **Design Sales Tracker Dashboard** monitors monthly job flow and revenue per
 ### Tools
 - Excel:
   - Initial exploration
-  - Cleaning & Structuring of data.
+  - Cleaning & Structuring of data
 - Python:
   - Automate cleaning process before import
-  - Engineer necessary features.   
+  - Engineer necessary features   
 - PostgreSQL:
   - Structured table creation
   - Stratification queries
 - Power BI:
   - Interactive dashboard pages
-  - Aggregated calculations & cumulative metrics.
+  - Aggregated calculations & cumulative metrics
